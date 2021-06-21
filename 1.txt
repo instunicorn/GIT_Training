@@ -40,3 +40,4 @@ Some peace.... Some peace.... Some peace
 
 new branch commit
 one more commit 
+non fast-forward merge
